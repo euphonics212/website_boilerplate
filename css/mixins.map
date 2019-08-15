@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "mixins.css",
+	"sources": [
+		"../sass/mixins.scss"
+	],
+	"sourcesContent": [
+		"//Inline lists for nav bars\r\n@mixin ul-reset{\r\n    margin: 0px;\r\n    padding: 0px;\r\n    list-style: none;\r\n}\r\n@mixin li-reset{\r\n    display: inline-block;\r\n}\r\n@mixin a-reset {\r\n    display: block;\r\n    padding: 6px 12px;\r\n    text-decoration: none;\r\n  }"
+	],
+	"names": [],
+	"mappings": ""
+}

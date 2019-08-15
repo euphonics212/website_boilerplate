@@ -1,0 +1,14 @@
+//Inline lists for nav bars
+@mixin ul-reset{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+@mixin li-reset{
+    display: inline-block;
+}
+@mixin a-reset {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }

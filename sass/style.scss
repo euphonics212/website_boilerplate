@@ -1,20 +1,15 @@
-$bodyFontType: "";
-$headingFontType: "";
+@import "variables";
+@import "mixins";
 
-$textFontSize: "";
-$h1FontSize: "";
-$h2FontSize: "";
-$h3FontSize: "";
-$h4FontSize: "";
-$h5FontSize: "";
-$h6FontSize: "";
-
-$textColorMain: "";
-$textColorAlt: "";
-$headingColorMain: "";
-$headingColorAlt: "";
-
-$themeColor_1: "";
-$themeColor_2: "";
-$themeColor_3: "";
-$themeColor_4: "";
+//navbar
+nav {
+    ul {
+        @include ul-reset;
+    }
+    li {
+        @include li-reset;
+    }
+    a {
+        @include a-reset;
+    }
+  }

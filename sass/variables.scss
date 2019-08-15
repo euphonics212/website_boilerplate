@@ -1,7 +1,11 @@
+//Font types for headings and text
 $bodyFontType: "";
 $headingFontType: "";
 
+//Font sizes for h1 - h6, body text, main navigation and small print.
 $textFontSize: "";
+$navLinkSize: "";
+$smallPrintSize: "";
 $h1FontSize: "";
 $h2FontSize: "";
 $h3FontSize: "";
@@ -9,12 +13,15 @@ $h4FontSize: "";
 $h5FontSize: "";
 $h6FontSize: "";
 
+//Font colours
 $textColorMain: "";
 $textColorAlt: "";
 $headingColorMain: "";
 $headingColorAlt: "";
 
+//Theme colours
 $themeColor_1: "";
 $themeColor_2: "";
 $themeColor_3: "";
 $themeColor_4: "";
+

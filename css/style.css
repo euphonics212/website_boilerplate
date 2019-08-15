@@ -1,2 +1,20 @@
+/* line 6, ../../../Users/Dan/Desktop/Websites/boilerplate_website_code/sass/style.scss */
+nav ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+/* line 9, ../../../Users/Dan/Desktop/Websites/boilerplate_website_code/sass/style.scss */
+nav li {
+  display: inline-block;
+}
+
+/* line 12, ../../../Users/Dan/Desktop/Websites/boilerplate_website_code/sass/style.scss */
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
 
 /*# sourceMappingURL=style.css.map */
