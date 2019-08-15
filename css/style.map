@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"/* Define standard variables and values for website */\r\n$bgcolor: purple;\r\n$textcolor: green;\r\n$fontsize: 18px;\r\n\r\n/* Use the variables */\r\nbody {\r\n  background-color: $bgcolor;\r\n  color: $textcolor;\r\n  font-size: $fontsize;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,sDAAsD;AAKtD,uBAAuB;;AACvB,AAAA,IAAI,CAAC;EACH,gBAAgB,EANR,MAAM;EAOd,KAAK,EANK,KAAK;EAOf,SAAS,EANA,IAAI;CAOd"
+}
