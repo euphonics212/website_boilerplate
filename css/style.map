@@ -2,11 +2,11 @@
 	"version": 3,
 	"file": "style.css",
 	"sources": [
-		"../scss/style.scss"
+		"../sass/style.scss"
 	],
 	"sourcesContent": [
-		"/* Define standard variables and values for website */\r\n$bgcolor: purple;\r\n$textcolor: green;\r\n$fontsize: 18px;\r\n\r\n/* Use the variables */\r\nbody {\r\n  background-color: $bgcolor;\r\n  color: $textcolor;\r\n  font-size: $fontsize;\r\n}"
+		"$bodyFontType: \"\";\r\n$headingFontType: \"\";\r\n\r\n$textFontSize: \"\";\r\n$h1FontSize: \"\";\r\n$h2FontSize: \"\";\r\n$h3FontSize: \"\";\r\n$h4FontSize: \"\";\r\n$h5FontSize: \"\";\r\n$h6FontSize: \"\";\r\n\r\n$textColorMain: \"\";\r\n$textColorAlt: \"\";\r\n$headingColorMain: \"\";\r\n$headingColorAlt: \"\";\r\n\r\n$themeColor_1: \"\";\r\n$themeColor_2: \"\";\r\n$themeColor_3: \"\";\r\n$themeColor_4: \"\";"
 	],
 	"names": [],
-	"mappings": "AAAA,sDAAsD;AAKtD,uBAAuB;;AACvB,AAAA,IAAI,CAAC;EACH,gBAAgB,EANR,MAAM;EAOd,KAAK,EANK,KAAK;EAOf,SAAS,EANA,IAAI;CAOd"
+	"mappings": ""
 }
